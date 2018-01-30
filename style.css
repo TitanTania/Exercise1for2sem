@@ -1,3 +1,7 @@
 body{
   background: deeppink;
 }
+
+.active {
+  color: pink;
+}
