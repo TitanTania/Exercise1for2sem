@@ -2,10 +2,6 @@ body{
   background: deeppink;
 }
 
-<<<<<<< HEAD
-.active {
-  color: pink;
-=======
 
 img {
   width: 500px;
@@ -14,5 +10,9 @@ img {
 
 h1 {
   color: yellow;
->>>>>>> ae4f7a1666b68c79325291b926e27770aa657cf8
+}
+
+
+.active {
+  color: pink;
 }
