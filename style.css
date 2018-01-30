@@ -1,3 +1,9 @@
 body{
   background: deeppink;
 }
+
+
+img {
+  width: 500px;
+  height: auto;
+}
